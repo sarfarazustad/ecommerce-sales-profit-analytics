@@ -1,0 +1,81 @@
+ProductID,Category,SubCategory,BasePrice
+P0001,Electronics,Laptop,10984.0
+P0002,Electronics,Laptop,42259.0
+P0003,Electronics,Laptop,40206.0
+P0004,Electronics,Monitor,57418.0
+P0005,Electronics,Monitor,28323.0
+P0006,Electronics,Monitor,30816.0
+P0007,Electronics,Headphones,12669.0
+P0008,Electronics,Headphones,14444.0
+P0009,Electronics,Headphones,53564.0
+P0010,Electronics,Keyboard,23489.0
+P0011,Electronics,Keyboard,52025.0
+P0012,Electronics,Keyboard,35026.0
+P0013,Electronics,Mouse,26600.0
+P0014,Electronics,Mouse,4085.0
+P0015,Electronics,Mouse,7956.0
+P0016,Home & Kitchen,Mixer,10728.0
+P0017,Home & Kitchen,Mixer,6809.0
+P0018,Home & Kitchen,Mixer,14954.0
+P0019,Home & Kitchen,Cookware,5660.0
+P0020,Home & Kitchen,Cookware,17344.0
+P0021,Home & Kitchen,Cookware,10936.0
+P0022,Home & Kitchen,Vacuum Cleaner,9782.0
+P0023,Home & Kitchen,Vacuum Cleaner,10703.0
+P0024,Home & Kitchen,Vacuum Cleaner,2162.0
+P0025,Home & Kitchen,Coffee Maker,2153.0
+P0026,Home & Kitchen,Coffee Maker,14474.0
+P0027,Home & Kitchen,Coffee Maker,15109.0
+P0028,Home & Kitchen,Storage,6992.0
+P0029,Home & Kitchen,Storage,15759.0
+P0030,Home & Kitchen,Storage,15844.0
+P0031,Fashion,T-Shirt,4254.0
+P0032,Fashion,T-Shirt,3377.0
+P0033,Fashion,T-Shirt,6861.0
+P0034,Fashion,Jeans,935.0
+P0035,Fashion,Jeans,4178.0
+P0036,Fashion,Jeans,5351.0
+P0037,Fashion,Shoes,3723.0
+P0038,Fashion,Shoes,6891.0
+P0039,Fashion,Shoes,5237.0
+P0040,Fashion,Jacket,4888.0
+P0041,Fashion,Jacket,3191.0
+P0042,Fashion,Jacket,6825.0
+P0043,Fashion,Bag,4860.0
+P0044,Fashion,Bag,6456.0
+P0045,Fashion,Bag,5251.0
+P0046,Beauty,Skincare,1693.0
+P0047,Beauty,Skincare,1140.0
+P0048,Beauty,Skincare,4299.0
+P0049,Beauty,Haircare,2032.0
+P0050,Beauty,Haircare,1451.0
+P0051,Beauty,Haircare,2637.0
+P0052,Beauty,Makeup,1934.0
+P0053,Beauty,Makeup,4921.0
+P0054,Beauty,Makeup,3070.0
+P0055,Beauty,Fragrance,4431.0
+P0056,Beauty,Fragrance,761.0
+P0057,Beauty,Fragrance,4837.0
+P0058,Beauty,Personal Care,505.0
+P0059,Beauty,Personal Care,2856.0
+P0060,Beauty,Personal Care,3815.0
+P0061,Sports,Running Gear,3583.0
+P0062,Sports,Running Gear,3027.0
+P0063,Sports,Running Gear,1675.0
+P0064,Sports,Fitness Equipment,11279.0
+P0065,Sports,Fitness Equipment,11022.0
+P0066,Sports,Fitness Equipment,10711.0
+P0067,Sports,Sportswear,9544.0
+P0068,Sports,Sportswear,4198.0
+P0069,Sports,Sportswear,9968.0
+P0070,Sports,Cycling,4911.0
+P0071,Sports,Cycling,9808.0
+P0072,Sports,Cycling,11813.0
+P0073,Sports,Outdoor,14579.0
+P0074,Sports,Outdoor,1781.0
+P0075,Sports,Outdoor,10832.0
+P0076,Electronics,Mouse,19293.0
+P0077,Fashion,Bag,2029.0
+P0078,Fashion,Bag,653.0
+P0079,Beauty,Fragrance,17098.0
+P0080,Beauty,Personal Care,11163.0
